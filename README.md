@@ -1,2 +1,2 @@
 # Unit-of-Measurement-Converter
-A simple tool for converting measurements between inches, feet, and yards using Python conditional if and elif statements
+This project enables quick conversions between units of length, specifically inches, feet, and yards. Users can input a starting unit and desired conversion unit, receiving the converted value in real-time.
